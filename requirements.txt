@@ -1,0 +1,9 @@
+kivy==2.2.1
+kivymd==1.1.1
+Kivy-Garden
+pillow
+Pygments
+pypiwin32
+pywin32
+requests
+urllib3
